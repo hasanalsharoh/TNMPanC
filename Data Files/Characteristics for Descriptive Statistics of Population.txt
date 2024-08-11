@@ -1,0 +1,209 @@
+case_submitter_id	vital_status	days_to_death	Group	gender	age_at_diagnosis_days	ajcc_pathologic_m	ajcc_pathologic_n	ajcc_pathologic_t	primary_diagnosis	site_of_resection_or_biopsy	ajcc_pathologic_stage	ajcc_staging_system_edition
+C3L-00589	Alive	9999	TMA	male	29322	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-01051	Alive	9999	TMA	male	22192	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-02109	Alive	9999	TMA	female	28885	M0	N1	T4	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage III	8th
+C3L-03123	Alive	9999	TMA	female	22137	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-03356	Alive	9999	TMA	male	26098	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-03630	Alive	9999	TMA	male	28674	M0	N1	T1	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-01011	Alive	9999	TMA	female	28289	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3N-03006	Alive	9999	TMA	female	23492	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3N-03173	Alive	9999	TMA	male	23662	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03665	Alive	9999	TMA	male	23168	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03670	Alive	9999	TMA	male	22035	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03839	Alive	9999	TMA	female	19956	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+HCM-BROD-0110-C25	Alive	9999	TMA	female	23410	M0	N1	T2	Adenocarcinoma, NOS	Body of pancreas	Stage IIB	8th
+HCM-CSHL-0059-C25	Alive	9999	TMA	female	29271	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreatic neck	Stage IIB	7th
+HCM-CSHL-0074-C25	Alive	9999	TMA	male	19813	M0	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0077-C25	Alive	9999	TMA	male	24206	M0	N2	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage III	8th
+HCM-CSHL-0079-C25	Alive	9999	TMA	male	27727	M0	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0082-C25	Alive	9999	TMA	male	28367	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0088-C25	Alive	9999	TMA	male	27551	M0	N2	T1c	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0091-C25	Alive	9999	TMA	female	23060	M0	N1	T2	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IIB	8th
+HCM-CSHL-0092-C25	Alive	9999	TMA	male	25328	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0094-C25	Alive	9999	TMA	female	22468	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0180-C25	Alive	9999	TMA	female	23371	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+TCGA-2J-AAB4	Alive	9999	TMA	male	17794	M0	N1	T2	Adenocarcinoma, NOS	Overlapping lesion of pancreas	Stage IIB	7th
+TCGA-2J-AAB8	Alive	9999	TMA	male	26028	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABK	Alive	9999	TMA	male	26188	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABO	Alive	9999	TMA	male	15869	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABT	Alive	9999	TMA	female	26379	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-H6-8124	Alive	9999	TMA	female	20741	M0	N1	T3	Adenocarcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-HV-A5A5	Alive	9999	TMA	female	22329	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-HV-A7OP	Alive	9999	TMA	male	26322	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-HZ-A9TJ	Alive	9999	TMA	male	25849	M1	N0	T3	Adenocarcinoma, NOS	Tail of pancreas	Stage IV	7th
+TCGA-IB-7652	Alive	9999	TMA	female	18129	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+TCGA-IB-7885	Alive	9999	TMA	female	28554	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+TCGA-IB-8126	Alive	9999	TMA	female	29213	M0	N1	T4	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+TCGA-IB-8127	Alive	9999	TMA	male	21676	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-A5ST	Alive	9999	TMA	female	23672	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-A6UF	Alive	9999	TMA	male	23152	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUM	Alive	9999	TMA	male	28013	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUP	Alive	9999	TMA	male	24864	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUR	Alive	9999	TMA	male	24576	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUS	Alive	9999	TMA	female	30684	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUT	Alive	9999	TMA	male	23801	M0	N1	T2	Mucinous adenocarcinoma	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUU	Alive	9999	TMA	male	13127	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-XD-AAUG	Alive	9999	TMA	female	24291	M1	N1	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IV	7th
+TCGA-XD-AAUH	Alive	9999	TMA	female	20858	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-00189	Dead	1036	TMA	female	24958	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-00401	Dead	1262	TMA	female	22991	M0	N1	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	7th
+C3L-00598	Dead	422	TMA	female	22466	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-00599	Dead	1352	TMA	male	22781	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-00622	Dead	1041	TMA	male	26616	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-00625	Dead	1198	TMA	female	12736	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-00819	Dead	603	TMA	male	27104	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-00928	Dead	761	TMA	female	21418	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+C3L-01036	Dead	881	TMA	male	23457	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-01037	Dead	300	TMA	male	15630	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-01053	Dead	191	TMA	female	27798	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-01054	Dead	860	TMA	female	14036	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	7th
+C3L-01158	Dead	980	TMA	female	25247	M1	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+C3L-01160	Dead	140	TMA	female	22041	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-01637	Dead	715	TMA	female	28706	M0	N1	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	7th
+C3L-01662	Dead	344	TMA	female	21979	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-01687	Dead	376	TMA	female	28838	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-01689	Dead	594	TMA	male	22672	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-02112	Dead	1747	TMA	male	24455	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-02115	Dead	723	TMA	male	29237	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-02606	Dead	403	TMA	female	25148	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-02613	Dead	211	TMA	female	19066	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-02890	Dead	1007	TMA	male	24050	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-02899	Dead	91	TMA	male	26705	M1	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	8th
+C3L-03388	Dead	11	TMA	male	24887	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3L-03395	Dead	88	TMA	male	28498	M0	N2	T2	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage III	8th
+C3L-03628	Dead	596	TMA	female	25282	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-04072	Dead	225	TMA	male	20413	M0	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3L-04080	Dead	20	TMA	male	25862	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3L-04473	Dead	290	TMA	female	24550	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage III	8th
+C3L-04475	Dead	893	TMA	male	28419	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3L-04479	Dead	1590	TMA	male	24207	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3L-04495	Dead	288	TMA	female	13477	M0	N1	T4	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage III	7th
+C3L-04848	Dead	196	TMA	female	26284	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3N-00249	Dead	1590	TMA	male	26108	M0	N1	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	8th
+C3N-00302	Dead	323	TMA	male	21532	M1	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	7th
+C3N-00303	Dead	599	TMA	male	24091	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-00511	Dead	991	TMA	female	16455	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-00512	Dead	1006	TMA	male	15559	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-00513	Dead	394	TMA	male	23121	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-00514	Dead	1874	TMA	male	22057	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-00517	Dead	1142	TMA	female	25407	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-00518	Dead	427	TMA	male	25462	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-01165	Dead	241	TMA	female	23060	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01166	Dead	1170	TMA	female	22892	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01167	Dead	754	TMA	female	28149	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01168	Dead	415	TMA	female	22172	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01375	Dead	143	TMA	female	25895	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-01380	Dead	400	TMA	male	24117	M1	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	7th
+C3N-01381	Dead	455	TMA	female	15744	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01382	Dead	764	TMA	female	27136	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01383	Dead	791	TMA	female	29417	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	7th
+C3N-01388	Dead	811	TMA	female	19447	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-01714	Dead	435	TMA	male	23163	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+C3N-01716	Dead	335	TMA	male	18343	M1	N1	T4	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	7th
+C3N-01897	Dead	494	TMA	male	20477	M1	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IV	7th
+C3N-02592	Dead	294	TMA	female	23318	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3N-02997	Dead	672	TMA	male	26837	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-02998	Dead	650	TMA	female	23734	M0	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03000	Dead	487	TMA	male	20844	M1	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	8th
+C3N-03007	Dead	58	TMA	male	21772	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03069	Dead	20	TMA	female	18530	M0	N2	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage III	8th
+C3N-03190	Dead	398	TMA	male	11659	M0	N1	T2	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	8th
+C3N-03426	Dead	123	TMA	female	24994	M1	N1	Unknown	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	8th
+C3N-03439	Dead	458	TMA	female	20776	M0	N1	T1c	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3N-03666	Dead	701	TMA	male	23228	M0	N1	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	8th
+C3N-03754	Dead	815	TMA	male	16266	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03840	Dead	1065	TMA	female	21749	M0	N1	T2	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	8th
+C3N-03853	Dead	393	TMA	female	17976	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-03884	Dead	680	TMA	female	23590	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-04126	Dead	348	TMA	male	15708	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+C3N-04282	Dead	303	TMA	male	27699	M1	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	8th
+C3N-04283	Dead	1	TMA	female	24187	M0	N2	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage III	8th
+C3N-04284	Dead	8	TMA	female	29323	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0075-C25	Dead	549	TMA	female	27321	M0	N1	T2	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	8th
+HCM-CSHL-0076-C25	Dead	458	TMA	female	27308	M0	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0078-C25	Dead	526	TMA	male	26533	Unknown	Unknown	Unknown	Intraductal papillary-mucinous carcinoma, invasive	Head of pancreas	Unknown	Unknown
+HCM-CSHL-0081-C25	Dead	250	TMA	male	21139	M0	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0089-C25	Dead	9999	TMA	male	22853	Unknown	Unknown	Unknown	Infiltrating duct carcinoma, NOS	Head of pancreas	Unknown	Unknown
+HCM-CSHL-0090-C25	Dead	9999	TMA	female	23666	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0176-C25	Dead	427	TMA	female	21917	M0	N2	T1c	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0179-C25	Dead	348	TMA	female	22008	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0184-C25	Dead	446	TMA	female	28240	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0405-C25	Dead	243	TMA	male	17648	M1	N2	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	8th
+TCGA-2J-AAB1	Dead	66	TMA	male	23962	M0	N1	T3	Mucinous adenocarcinoma	Head of pancreas	Stage IIB	7th
+TCGA-2J-AAB9	Dead	627	TMA	female	25920	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABA	Dead	607	TMA	male	20133	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABF	Dead	691	TMA	male	26936	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABU	Dead	277	TMA	male	20641	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2J-AABV	Dead	652	TMA	male	27082	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-2L-AAQE	Dead	684	TMA	male	20618	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-F2-6879	Dead	334	TMA	male	20984	M0	N1	T3	Adenocarcinoma, NOS	Head of pancreas	Stage IIB	6th
+TCGA-F2-A44G	Dead	233	TMA	female	29150	M0	N1	T3	Adenocarcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-F2-A7TX	Dead	95	TMA	male	28239	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-FB-A545	Dead	732	TMA	female	26635	M0	N1	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIB	7th
+TCGA-FB-A78T	Dead	375	TMA	female	26179	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-HV-A5A6	Dead	2036	TMA	female	24025	M0	N1b	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-HZ-7919	Dead	593	TMA	female	19064	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-HZ-8636	Dead	545	TMA	female	21501	M1	N0	T3	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IV	7th
+TCGA-IB-7644	Dead	394	TMA	female	24043	M1	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IV	7th
+TCGA-IB-7645	Dead	1502	TMA	female	16126	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	6th
+TCGA-IB-7646	Dead	145	TMA	male	22148	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	6th
+TCGA-IB-7647	Dead	666	TMA	male	15188	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	6th
+TCGA-IB-7649	Dead	467	TMA	female	26773	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	6th
+TCGA-IB-7651	Dead	603	TMA	female	23580	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	6th
+TCGA-IB-7886	Dead	123	TMA	male	29319	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+TCGA-IB-7887	Dead	110	TMA	female	22990	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+TCGA-IB-7889	Dead	481	TMA	female	31393	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+TCGA-IB-7891	Dead	913	TMA	female	18202	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+TCGA-IB-7897	Dead	486	TMA	female	19718	M0	N1	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	6th
+TCGA-IB-A5SO	Dead	365	TMA	male	26129	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-A5SS	Dead	460	TMA	female	23431	M0	N1	T3	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IIB	7th
+TCGA-IB-A6UG	Dead	41	TMA	male	23751	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUO	Dead	239	TMA	female	23622	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+TCGA-IB-AAUQ	Dead	183	TMA	male	18315	M0	N1	T3	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IIB	7th
+TCGA-L1-A7W4	Dead	278	TMA	female	17821	M0	N1	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIB	7th
+HCM-CSHL-0073-C25	Unknown	9999	TMA	male	20210	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0080-C25	Unknown	9999	TMA	female	22238	M0	N2	T1c	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0084-C25	Unknown	9999	TMA	female	26727	M0	N2	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage III	8th
+HCM-CSHL-0177-C25	Unknown	9999	TMA	female	23399	M0	N2	T2	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage III	8th
+HCM-CSHL-0183-C25	Unknown	9999	TMA	female	23374	M0	N2	T2	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage III	8th
+C3N-03780	Dead	20	TMA	female	25275	M1b	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+C3L-01031	Alive	9999	TWA	female	23784	M0	N0	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIA	7th
+C3L-02897	Alive	9999	TWA	male	29507	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage I	8th
+C3L-04027	Alive	9999	TWA	male	25375	M0	N0	T1	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IA	8th
+C3N-01012	Alive	9999	TWA	male	25953	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+C3N-03440	Alive	9999	TWA	female	19891	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+TCGA-2J-AABE	Alive	9999	TWA	male	26943	M0	N0	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIA	7th
+TCGA-2J-AABH	Alive	9999	TWA	male	22425	M0	N0	T3	Adenocarcinoma, NOS	Body of pancreas	Stage IIA	7th
+TCGA-2J-AABI	Alive	9999	TWA	female	20316	M0	N0	T3	Adenocarcinoma, NOS	Head of pancreas	Stage IIA	7th
+TCGA-2J-AABR	Alive	9999	TWA	female	22131	M0	N0	T3	Infiltrating duct carcinoma, NOS	Overlapping lesion of pancreas	Stage IIA	7th
+TCGA-F2-A44H	Alive	9999	TWA	male	24007	M0	N0	T3	Adenocarcinoma, NOS	Head of pancreas	Stage IIA	7th
+TCGA-F2-A8YN	Alive	9999	TWA	male	28047	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	7th
+TCGA-IB-A5SP	Alive	9999	TWA	male	28317	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	7th
+TCGA-M8-A5N4	Alive	9999	TWA	female	17628	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	6th
+TCGA-XN-A8T3	Alive	9999	TWA	male	24810	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	7th
+TCGA-XN-A8T5	Alive	9999	TWA	female	19707	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	7th
+TCGA-Z5-AAPL	Alive	9999	TWA	female	27152	M0	N0	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIA	7th
+C3L-01052	Dead	743	TWA	female	23696	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	7th
+C3L-01598	Dead	913	TWA	female	26697	M0	N0	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIB	7th
+C3L-01703	Dead	287	TWA	male	22902	M0	N0	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIA	8th
+C3L-02116	Dead	1063	TWA	male	24692	M0	N0	T2	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IB	8th
+C3L-02118	Dead	632	TWA	female	24832	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+C3L-02610	Dead	190	TWA	male	29536	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	8th
+C3L-03632	Dead	1481	TWA	male	27050	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+C3L-03635	Dead	854	TWA	male	23274	M0	N0	T2	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IB	8th
+C3L-03639	Dead	246	TWA	male	27761	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+C3L-04853	Dead	279	TWA	female	31222	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	8th
+C3N-00436	Dead	718	TWA	female	25422	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	7th
+C3N-00516	Dead	1152	TWA	male	25164	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	7th
+C3N-02589	Dead	398	TWA	male	26008	M0	N0	T3	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IIA	7th
+C3N-02590	Dead	145	TWA	female	25019	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	8th
+HCM-BROD-0124-C25	Dead	481	TWA	male	22096	M0	N0	T3	Adenocarcinoma, NOS	Body of pancreas	Stage IIA	7th
+TCGA-2J-AAB6	Dead	293	TWA	male	27600	M0	N0	T3	Infiltrating duct carcinoma, NOS	Body of pancreas	Stage IIA	7th
+TCGA-FB-A5VM	Dead	498	TWA	male	27362	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	7th
+TCGA-IB-7888	Dead	1332	TWA	female	24117	M0	N0	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIA	6th
+TCGA-IB-7890	Dead	598	TWA	male	26747	M0	N0	T2	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IB	6th
+TCGA-IB-7893	Dead	117	TWA	male	23703	M0	N0	T3	Infiltrating duct carcinoma, NOS	Pancreas, NOS	Stage IIA	6th
+TCGA-IB-A5SQ	Dead	219	TWA	female	20760	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	7th
+TCGA-IB-AAUN	Dead	144	TWA	female	27128	M0	N0	T2	Infiltrating duct carcinoma, NOS	Head of pancreas	Stage IB	7th
+TCGA-OE-A75W	Dead	267	TWA	male	27684	M0	N0	T3	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IIA	7th
+HCM-CSHL-0182-C25	Unknown	9999	TWA	male	27264	M0	N0	T2	Infiltrating duct carcinoma, NOS	Tail of pancreas	Stage IB	8th
