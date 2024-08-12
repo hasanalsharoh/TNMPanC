@@ -1,1 +1,27 @@
+# TCGA
+Folder contains a link to a public repository with all the curated raw data required for the data analysis.
+
+# tpm4mltt 
+Contains preprocessed TPM data for machine learning algorithms for training and testing.
+
+# tpmval4ml
+
+Contains preprocessed TPM data for the validation set
+
+# traintest
+
+Contatns preprocessed raw counts for machine learning algorithms
+
+# valset
+
+Contains preprocessed raw counts for the validation set
+
+# Characteristics for Descriptive Statistics
+
+Includes patients' clinical data
+
+# Kaplan Meier
+
+Includes survival data for patients
+
 
